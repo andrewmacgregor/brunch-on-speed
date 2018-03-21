@@ -3,15 +3,16 @@
   "description": "Skeleton for Brunch",
   "private": true,
   "author": "jfilter",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "repository": "",
   "scripts": {
     "start": "LOGGY_STACKS=true brunch watch --server",
     "build": "brunch build --production"
   },
   "dependencies": {
-    "bootstrap": "^3",
-    "jquery": "^3"
+    "bootstrap": "^4.0.0",
+    "popper.js": "^1.14.1",
+    "jquery": "^3.3.1"
   },
   "devDependencies": {
     "auto-reload-brunch": "^2",

@@ -10,7 +10,7 @@ This is a skeleton (or boilerplate) for [Brunch](http://brunch.io), a fast and e
 Clone this repo manually or use `brunch new DIRECTORY -s jfilter/brunch-on-speed`
 
 ## Features
-* [Twitter Bootstrap v3](https://getbootstrap.com/docs/3.3/p.com)
+* [Twitter Bootstrap v4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 * [jQuery](http://jquery.com)
 * Compilation of ECMAScript 2015 (ECMAScript 6) files with [Babel](https://babeljs.io)
 * Uglification and concatenation of Javascript files with [UglifyJS](http://lisperator.net/uglifyjs/)
